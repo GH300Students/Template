@@ -1,5 +1,3 @@
 # Template
 
-Testing
-my test
-other test
+- Add License
